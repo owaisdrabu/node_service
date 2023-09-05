@@ -1,9 +1,13 @@
 # To Run On Local
 
 Step 1: Clone Project, and hit npm install.
+
 Step 2: Add .env file with necessary credentials.
+
 Step 3: run command 'npm dev run' to start the server.
+
 Step 4: API url: http://localhost:3000/donate.
+
     payload = {
         "userId": 1
     }.
