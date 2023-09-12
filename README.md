@@ -4,7 +4,7 @@ Step 1: Clone Project, and run npm install.
 
 Step 2: Rename .env_copy to .env and add the necessary credentials.
 
-Step 3: Run the command 'npm dev run' to start the server.
+Step 3: Run the command 'npm run dev' to start the server.
 
 Step 4: API url: http://localhost:3000/donate.
 
